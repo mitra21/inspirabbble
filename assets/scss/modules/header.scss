@@ -20,6 +20,11 @@ header {
         &.brand {
             float: left;
 
+            .title img {
+                width: 140px;
+                vertical-align: middle;
+            }
+
             .title h1 {
                 color: #fff;
                 margin: 0;
